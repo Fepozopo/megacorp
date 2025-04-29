@@ -1,6 +1,6 @@
 partner list
 SalesInc
 TheStartup
-ClosedMLartner list
+ClosedML
 SalesInc
 TheStartup
